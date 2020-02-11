@@ -1,0 +1,1 @@
+alter table usr add column resetPassToken varchar(40);
