@@ -1,1 +1,2 @@
 # VDobryanski
+Simple Twitter clone
